@@ -6,7 +6,7 @@ I like:
 - 🌳 Hiking
 - 🏃 Running
 - 🐬 Mathematics
-- 🖥️ Data Science
+- 🚀 Data Science
 - 🐍 Programming
 - 💪 Lifting Weights
 - 🌍 Effective Altruism

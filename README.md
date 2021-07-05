@@ -10,4 +10,4 @@ I like:
 - 🖥️ Data Science
 - 💪 Lifting Weights
 - 🌍 Effective Altruism
-
+- 🤑 Quantitative Finance

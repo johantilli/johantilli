@@ -3,7 +3,6 @@ Hi, I’m @johantilli
 I like:
 - 🎹 Jazz
 - 🐱 Cats
-- 💰 Crypto
 - 🌳 Hiking
 - 🏃 Running
 - 🐬 Mathematics

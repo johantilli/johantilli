@@ -2,7 +2,7 @@ Hi, I’m @johantilli
 
 I like:
 - 🐱 Cats
-- 🎹 Music
+- 🎹 Jazz
 - 💰 Crypto
 - 🌳 Hiking
 - 🏃 Running

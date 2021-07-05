@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @johantilli
+Hi, I’m @johantilli
 
-- I like:
-- 🐱 Cats
-- 🎹 Music
-- 💰 Crypto
-- 🌳 Hiking
-- 🤟 Mathematics
-- 🖥️ Data Science
-- 💪 Lifting Weights
-- 🌍 Effective Altruism
+I like:
+🐱 Cats
+🎹 Music
+💰 Crypto
+🌳 Hiking
+🏃 Running
+🐬 Mathematics
+🖥️ Data Science
+💪 Lifting Weights
+🌍 Effective Altruism
 

@@ -6,8 +6,8 @@ I like:
 - 💰 Crypto
 - 🌳 Hiking
 - 🏃 Running
-- 🖥️ Data Science
 - 🐬 Mathematics
+- 🖥️ Data Science
 - 🐍 Programming
 - 💪 Lifting Weights
 - 🌍 Effective Altruism
